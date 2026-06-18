@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "Atlas Plumbing & Heating Co",
+    "shortName": "Atlas Plumbing",
+    "tagline": "Trusted Dallas Plumbers Since 1952",
+    "niche": "Plumber",
+    "phone": "(972) 243-8051",
+    "address": "11311 Harry Hines Blvd ste 505, Dallas, TX 75229",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7am-6pm, Sat 8am-4pm",
+    "ctaLabel": "Request Service",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Atlas Plumbing & Heating Co | Expert Plumber in Dallas, TX",
+    "description": "Family-owned Dallas plumber since 1952. 24/7 emergency plumbing, water heater repair, drain cleaning & more. Licensed, insured, and trusted by thousands. Call (972) 243-8051."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Plumber Since 1952",
+      "headline": "Reliable Plumbing & Heating Services in Dallas",
+      "subheadline": "From emergency repairs to full system installations, our licensed technicians deliver fast, honest, and lasting solutions.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "Call (972) 243-8051"
+    },
+    "stats": [
+      {
+        "value": "70+",
+        "label": "Years of Service"
+      },
+      {
+        "value": "10,000+",
+        "label": "Jobs Completed"
+      },
+      {
+        "value": "4.5",
+        "label": "Star Average Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Licensed & Insured"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Emergency Services",
+        "title": "24/7 Emergency Plumbing When You Need It Most",
+        "body": "A burst pipe or overflowing toilet doesn't wait for business hours. That's why Atlas Plumbing offers round-the-clock emergency services throughout Dallas. Our rapid-response team arrives fully equipped to diagnose and resolve your issue, minimizing damage and restoring your peace of mind.",
+        "bullets": [
+          "Available 24 hours a day, 7 days a week",
+          "Same-day service for urgent repairs",
+          "Transparent pricing with no hidden fees"
+        ],
+        "reverse": false,
+        "cardLabel": "Fast Response",
+        "cardTitle": "We're There Fast",
+        "cardBody": "Most emergencies are addressed within 60 minutes of your call."
+      },
+      {
+        "eyebrow": "Water Heaters",
+        "title": "Water Heater Installation & Repair",
+        "body": "Whether you need a traditional tank or a modern tankless system, our team handles all makes and models. We'll help you choose the right size and energy-efficient option for your home, then install it correctly the first time. Regular maintenance extends your heater's life and prevents unexpected breakdowns.",
+        "bullets": [
+          "Tank and tankless water heater installation",
+          "Expert repair for all brands",
+          "Maintenance plans to prevent failures"
+        ],
+        "reverse": true,
+        "cardLabel": "Efficiency",
+        "cardTitle": "Save on Energy Bills",
+        "cardBody": "Upgrading to a high-efficiency water heater can cut your energy costs by up to 30%."
+      }
+    ],
+    "whyTitle": "Why Dallas Homeowners Choose Atlas Plumbing",
+    "whyChooseUs": [
+      {
+        "title": "Decades of Local Experience",
+        "description": "Since 1952, we've served Dallas with pride. Our technicians know the local plumbing codes, common issues, and best solutions for homes in our area."
+      },
+      {
+        "title": "Licensed & Insured Professionals",
+        "description": "Every Atlas plumber is fully licensed, bonded, and insured. We undergo continuous training to stay current with the latest techniques and safety standards."
+      },
+      {
+        "title": "Upfront Pricing, No Surprises",
+        "description": "We provide a clear, written estimate before any work begins. You'll know exactly what the job costs before we start — no hidden fees or overtime charges."
+      },
+      {
+        "title": "100% Satisfaction Guarantee",
+        "description": "If you're not happy with our work, we'll make it right. Our reputation is built on trust, quality, and standing behind every job we do."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Atlas Plumbing saved us on a Sunday night when our water heater burst. They were at our door within an hour, replaced the unit, and even cleaned up afterward. Professional and fair priced.",
+        "author": "Sarah M.",
+        "role": "Lakewood homeowner"
+      },
+      {
+        "quote": "We've used Atlas for years — from small leaks to a full repipe. Their team is always courteous, on time, and explains everything clearly. I recommend them to all my neighbors.",
+        "author": "James R.",
+        "role": "Preston Hollow resident"
+      },
+      {
+        "quote": "After three other plumbers couldn't fix our drain issue, Atlas diagnosed it in 15 minutes. The repair was done same day and the price was very reasonable. They earned a customer for life.",
+        "author": "Linda T.",
+        "role": "Oak Lawn homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Solve Your Plumbing Problem?",
+      "subheadline": "Call us now or schedule online for fast, reliable service from Dallas's most trusted plumbers.",
+      "primaryCta": "Schedule Online",
+      "secondaryCta": "Call (972) 243-8051"
+    }
+  },
+  "servicesPage": {
+    "intro": "From minor repairs to major installations, Atlas Plumbing & Heating Co offers a full range of residential and commercial plumbing services in Dallas. Our experienced technicians use the latest tools and techniques to ensure lasting results. Explore our services below."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Emergency Plumbing",
+      "shortDescription": "24/7 emergency response for burst pipes, severe clogs, gas leaks, and more.",
+      "longDescription": "When a plumbing emergency strikes, every minute counts. Atlas Plumbing provides round-the-clock emergency services throughout Dallas. Our rapid-response team is always on standby, ready to handle any crisis — from flooded basements to broken water mains. We arrive fully equipped to assess, contain, and repair the issue quickly, preventing further damage to your property.",
+      "benefits": [
+        "Available 24/7 including holidays",
+        "60-minute average response time",
+        "Licensed and insured emergency technicians",
+        "Free phone consultation to assess urgency"
+      ],
+      "process": [
+        {
+          "title": "Step 1: Call & Assess",
+          "description": "Call our emergency line. Our dispatcher will ask key questions to determine the severity and send the nearest available technician."
+        },
+        {
+          "title": "Step 2: Rapid Arrival & Diagnosis",
+          "description": "Our plumber arrives within 60 minutes, assesses the situation, and provides a clear estimate before any work begins."
+        },
+        {
+          "title": "Step 3: Repair & Cleanup",
+          "description": "We perform the repair using high-quality parts, then clean the work area thoroughly. We'll also advise on preventive measures."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How much does an emergency plumbing call cost?",
+          "answer": "Our emergency service fee is $99, which covers the after-hours dispatch. Repair costs are quoted separately based on the work needed, and we always provide an upfront estimate."
+        },
+        {
+          "question": "Do you handle gas line emergencies?",
+          "answer": "Yes, our technicians are trained and certified to handle gas leaks and gas line repairs. If you smell gas, leave your home immediately and call us from outside."
+        }
+      ],
+      "slug": "emergency-plumbing"
+    },
+    {
+      "icon": "02",
+      "title": "Water Heater Services",
+      "shortDescription": "Installation, repair, and maintenance for tank and tankless water heaters.",
+      "longDescription": "Hot water is essential for comfort and daily routines. Atlas Plumbing specializes in all types of water heaters — traditional tank, tankless, and hybrid models. We help you select the most energy-efficient unit for your home's needs, install it professionally, and provide ongoing maintenance to extend its lifespan. If your water heater is acting up, our diagnostic experts can pinpoint the issue and recommend the best course of action.",
+      "benefits": [
+        "Expert installation for all major brands",
+        "Tankless and traditional options available",
+        "Extended warranties on parts and labor",
+        "Maintenance plans to prevent breakdowns"
+      ],
+      "process": [
+        {
+          "title": "Step 1: Consultation & Sizing",
+          "description": "We assess your household's hot water demand and recommend the right size and type of water heater for optimal efficiency and comfort."
+        },
+        {
+          "title": "Step 2: Professional Installation",
+          "description": "Our licensed plumbers install the unit according to all local codes, ensuring safe operation and peak performance."
+        },
+        {
+          "title": "Step 3: Testing & Walkthrough",
+          "description": "We test the system, check for leaks, and show you how to operate and maintain your new water heater."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a water heater installation take?",
+          "answer": "A standard tank replacement typically takes 2-4 hours. Tankless installations may take 4-6 hours due to additional venting and gas line modifications."
+        },
+        {
+          "question": "What is the average lifespan of a water heater?",
+          "answer": "Traditional tank water heaters last 10-15 years, while tankless models can last 20+ years with proper maintenance."
+        }
+      ],
+      "slug": "water-heater-services"
+    },
+    {
+      "icon": "03",
+      "title": "Drain Cleaning & Repair",
+      "shortDescription": "Professional drain cleaning, sewer line repair, and clog removal.",
+      "longDescription": "Slow drains and recurring clogs are more than an inconvenience — they can signal deeper issues in your plumbing system. Atlas Plumbing uses advanced hydro-jetting and video inspection to clear blockages and identify problems like tree root intrusion or pipe damage. We provide thorough cleaning and lasting repairs to restore proper flow and prevent future backups.",
+      "benefits": [
+        "Hydro-jetting for stubborn clogs",
+        "Video camera inspection for accurate diagnosis",
+        "Sewer line repair and replacement",
+        "Eco-friendly cleaning options"
+      ],
+      "process": [
+        {
+          "title": "Step 1: Video Inspection",
+          "description": "We insert a high-definition camera into your drain to locate the blockage and assess pipe condition."
+        },
+        {
+          "title": "Step 2: Hydro-Jetting or Snaking",
+          "description": "Depending on the clog, we use either a powerful hydro-jet or a motorized auger to clear the line completely."
+        },
+        {
+          "title": "Step 3: Post-Clearing Verification",
+          "description": "We re-inspect the line to confirm full flow and recommend any necessary repairs or maintenance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I have my drains cleaned?",
+          "answer": "We recommend professional drain cleaning every 1-2 years for most homes, or more frequently if you have older pipes or recurring clogs."
+        },
+        {
+          "question": "Will hydro-jetting damage my pipes?",
+          "answer": "No, hydro-jetting uses high-pressure water that is safe for all types of pipes, including PVC and cast iron. It effectively removes buildup without chemicals."
+        }
+      ],
+      "slug": "drain-cleaning-repair"
+    },
+    {
+      "icon": "04",
+      "title": "Pipe Repair & Repiping",
+      "shortDescription": "Leak repair, pipe replacement, and whole-home repiping services.",
+      "longDescription": "Leaky or corroded pipes can cause water damage, mold, and high utility bills. Atlas Plumbing provides expert pipe repair and full repiping solutions for Dallas homes. Whether you need a single section replaced or a complete upgrade to modern PEX or copper, our team works efficiently to minimize disruption. We use durable materials and proven techniques to ensure your plumbing system is reliable for years to come.",
+      "benefits": [
+        "Leak detection and repair",
+        "Whole-home repiping with minimal wall damage",
+        "Copper and PEX piping options",
+        "Warranty on all pipe work"
+      ],
+      "process": [
+        {
+          "title": "Step 1: Leak Detection & Assessment",
+          "description": "We use electronic leak detection equipment to pinpoint the exact location of leaks without unnecessary demolition."
+        },
+        {
+          "title": "Step 2: Repair or Repipe Plan",
+          "description": "We present a detailed plan with options — from spot repairs to full repiping — including costs and timeline."
+        },
+        {
+          "title": "Step 3: Professional Execution",
+          "description": "Our plumbers perform the work with minimal disruption, clean up thoroughly, and test the system for proper pressure and flow."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if I need repiping?",
+          "answer": "Signs include frequent leaks, low water pressure, discolored water, or pipes that are over 50 years old. A video inspection can confirm the condition."
+        },
+        {
+          "question": "How long does a full repipe take?",
+          "answer": "For an average home, repiping typically takes 2-5 days, depending on the size of the house and the complexity of the layout."
+        }
+      ],
+      "slug": "pipe-repair-repiping"
+    }
+  ],
+  "about": {
+    "headline": "Dallas's Trusted Plumbing Experts Since 1952",
+    "mission": "To provide Dallas homeowners and businesses with reliable, honest, and high-quality plumbing services — delivered with integrity and respect.",
+    "story": [
+      "Atlas Plumbing & Heating Co was founded in 1952 with a simple mission: deliver dependable plumbing services with old-fashioned work ethic. What started as a small family operation has grown into one of Dallas's most trusted plumbing companies, serving thousands of customers across the metroplex. Our longevity is built on a commitment to quality craftsmanship, transparent pricing, and treating every home like our own.",
+      "Today, we continue that tradition with a team of licensed, background-checked technicians who undergo continuous training. We invest in the latest diagnostic tools and techniques to provide efficient, lasting repairs. Whether it's a routine drain cleaning or a complex repipe, we approach every job with the same dedication that has kept our customers coming back for over 70 years."
+    ],
+    "highlight": {
+      "stat": "70+",
+      "label": "Years Serving Dallas"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We do what we say and stand behind our work. No shortcuts, no hidden fees."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-grade materials and proven techniques to ensure repairs last."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your home with care, arriving on time and leaving the workspace clean."
+      },
+      {
+        "title": "Community",
+        "description": "Dallas is our home too. We support local causes and take pride in serving our neighbors."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch With Atlas Plumbing",
+    "subheadline": "Ready to schedule service or have a question? Call us or fill out the form below. We'll respond promptly.",
+    "primaryCta": "Call (972) 243-8051",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Preston Hollow",
+      "Oak Lawn",
+      "Uptown",
+      "Park Cities"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.5,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Plumber",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:9722438051",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
